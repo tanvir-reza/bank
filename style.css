@@ -1,0 +1,39 @@
+.body{
+    padding: 100px;
+}
+#login-area{
+    display: block;
+}
+.submit-area{
+    
+    margin-top: 30px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 20px;
+}
+.deposit{
+    background: #4343c0d4;
+    border-radius: 12px;
+    text-align: center;
+    margin-right: auto;
+    padding: 41px 8px 40px 0px;
+}
+#tranArea{
+    display: none;
+    margin-top: 117px;
+    padding: 30px;
+}
+.withdraw{
+    background: #e0bc2b;
+    border-radius: 12px;
+    margin-right: auto;
+    text-align: center;
+    padding: 41px 8px 40px 0px;
+}
+
+.balance{
+    background: #eb6618;
+    border-radius: 12px;
+    text-align: center;
+    padding: 41px 8px 40px 0px;
+}
